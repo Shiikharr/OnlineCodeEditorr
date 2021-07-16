@@ -1,6 +1,7 @@
 # Online Code Editor- By Shikhar using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+In order to run it make sure that you have extracted the node_modules.zip file.
 
 ## Available Scripts
 
